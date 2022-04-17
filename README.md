@@ -1,5 +1,27 @@
 # Webgoat-Termux
 
+<p align="center">
+<a href="https://github.com/rdxlr"><img title="Github" src="https://img.shields.io/badge/rdxlr-grey?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/rdxlr/Webgoat-Termux"><img title="Github" src="https://img.shields.io/badge/Webgoat_Termux-red?style=for-the-badge"></a>
+</p>
+
+<p align="center">
+<a href="https://github.com/RDXLR/Webgoat-Termux"><img title="Version" src="https://img.shields.io/badge/Version-8.2.2-red.svg"></a>
+<a href="https://github.com/RDXLR/Webgoat-Termux"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
+</p>
+
+<p align="center">
+<a href="https://github.com/rdxlr"><img title="Language" src="https://img.shields.io/badge/Made%20with-Bash-1f425f.svg?v=103"></a>
+</p>
+
+<p align="center">
+<a href="https://github.com/rdxlr"><img title="Followers" src="https://img.shields.io/github/followers/rdxlr?color=blue&style=flat-square"></a>
+<a href="https://github.com/rdxlr"><img title="Stars" src="https://img.shields.io/github/stars/rdxlr/Webgoat-Termux?color=red&style=flat-square"></a>
+<a href="https://github.com/rdxlr"><img title="Forks" src="https://img.shields.io/github/forks/rdxlr/Webgoat-Termux?color=red&style=flat-square"></a>
+<a href="https://github.com/rdxlr"><img title="Issues" src="https://img.shields.io/github/issues/rdxlr/Webgoat-Termux?color=red&style=flat-square"></a>
+<a href="https://github.com/rdxlr"><img title="Watching" src="https://img.shields.io/github/watchers/rdxlr/Webgoat-Termux?label=Watchers&color=blue&style=flat-square"></a>
+</p>
+
 ## Introduction
 
 WebGoat is a deliberately insecure web application maintained by [OWASP](http://www.owasp.org/) designed to teach web
@@ -20,7 +42,7 @@ you are caught engaging in unauthorized hacking, most companies will fire you.
 Claiming that you were doing security research will not work as that is the
 first thing that all hackers claim.*
 
-## Installation
+## Installation [TERMUX]
 * `pkg update && pkg upgrade`
 * `pkg install wget`
 * `wget https://raw.githubusercontent.com/RDXLR/Webgoat-Termux/main/install-webgoat`
