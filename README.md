@@ -6,6 +6,10 @@
 </p>
 
 <p align="center">
+<img src="https://raw.githubusercontent.com/RDXLR/Webgoat-Termux/main//Webgoat-Termux-poster.png">
+</p>
+
+<p align="center">
 <a href="https://github.com/RDXLR/Webgoat-Termux"><img title="Version" src="https://img.shields.io/badge/Version-8.2.2-red.svg"></a>
 <a href="https://github.com/RDXLR/Webgoat-Termux"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
 </p>
