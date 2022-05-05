@@ -20,10 +20,14 @@
 
 <p align="center">
 <a href="https://github.com/rdxlr"><img title="Followers" src="https://img.shields.io/github/followers/rdxlr?color=blue&style=flat-square"></a>
-<a href="https://github.com/rdxlr"><img title="Stars" src="https://img.shields.io/github/stars/rdxlr/Webgoat-Termux?color=red&style=flat-square"></a>
-<a href="https://github.com/rdxlr"><img title="Forks" src="https://img.shields.io/github/forks/rdxlr/Webgoat-Termux?color=red&style=flat-square"></a>
-<a href="https://github.com/rdxlr"><img title="Issues" src="https://img.shields.io/github/issues/rdxlr/Webgoat-Termux?color=red&style=flat-square"></a>
-<a href="https://github.com/rdxlr"><img title="Watching" src="https://img.shields.io/github/watchers/rdxlr/Webgoat-Termux?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/rdxlr/Webgoat-Termux"><img title="Stars" src="https://img.shields.io/github/stars/rdxlr/Webgoat-Termux?color=red&style=flat-square"></a>
+<a href="https://github.com/rdxlr/Webgoat-Termux"><img title="Forks" src="https://img.shields.io/github/forks/rdxlr/Webgoat-Termux?color=red&style=flat-square"></a>
+<a href="https://github.com/rdxlr/Webgoat-Termux"><img title="Issues" src="https://img.shields.io/github/issues/rdxlr/Webgoat-Termux?color=red&style=flat-square"></a>
+<a href="https://github.com/rdxlr/Webgoat-Termux"><img title="Watching" src="https://img.shields.io/github/watchers/rdxlr/Webgoat-Termux?label=Watchers&color=red&style=flat-square"></a>
+</p>
+
+<p align="center">
+<a href="https://github.com/RDXLR/Webgoat-Termux/blob/main/LICENSE"><img title="Licence" src="https://img.shields.io/badge/License-MIT LICENCE-blue.svg"></a>
 </p>
 
 ## Introduction
