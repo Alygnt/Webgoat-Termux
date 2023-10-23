@@ -1,7 +1,7 @@
 pkg update && pkg upgrade
 pkg install openjdk-17-jdk -y
-wget --no-check-certificate https://github.com/WebGoat/WebGoat/releases/download/v8.2.2/webgoat-server-8.2.2.jar
-mv webgoat-server-8.2.2.jar $PREFIX/bin
+wget --no-check-certificate https://github.com/WebGoat/WebGoat/releases/download/v2023.4/webgoat-2023.4.jar
+mv webgoat-2023.4.jar $PREFIX/bin
 wget --no-check-certificate https://raw.githubusercontent.com/RDXLR/Webgoat-Termux/main/webgoat
 chmod 777 webgoat
 mv webgoat $PREFIX/bin
