@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Alygnt/Webgoat-Termux/main//Webgoat-Termux-poster.png">
+<img src="https://raw.githubusercontent.com/Alygnt/archive/webgoat-termux/Webgoat-Termux-poster.png">
 </p>
 
 <p align="center">
